@@ -1172,8 +1172,9 @@ RigeModel.score(x_test_pr, y_test)
 
 
 
-<h2>About the Authors:</h2> 
+<h2>About this Project:</h2> 
 
-<a href="https://www.linkedin.com/in/joseph-s-50398b136/">Joseph Santarcangelo</a> has a PhD in Electrical Engineering, his research focused on using machine learning, signal processing, and computer vision to determine how videos impact human cognition. Joseph has been working for IBM since he completed his PhD.
+This project is part of a graded excercise in "Data Analysis Using Python" course on Coursera offered by IBM
 
-Other contributors: <a href="https://www.linkedin.com/in/michelleccarey/">Michelle Carey</a>, <a href="www.linkedin.com/in/jiahui-mavis-zhou-a4537814a">Mavis Zhou</a> 
+
+
